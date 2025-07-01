@@ -6,7 +6,7 @@
 #       DO NOT MODIFY WHILE THE BOT IS RUNNING!
 # CHANGES MADE WHILE THE BOT IS RUNNING WILL BE LOST!
 #
-#Tue Jul 01 04:35:08 CEST 2025
+#Tue Jul 01 06:33:36 CEST 2025
 apiexpires=1751348708054
 apioauth=oauth\:2zb70ol5gncnnb9fkbemn0zg5vpl33
 apirefresh=njylofouziuq0umpy0wk5e15i7b2nvicr6p2mgp59k8c0h8lg0
@@ -16,8 +16,8 @@ clientid=czyssibpxq04gk8921enhjrqjpc2ho
 clientsecret=e8fi7awhbxvx37nkwgwjlb6mcl41x6
 musicenable=true
 newsetup=false
-oauth=oauth\:jwagtje6qs4z0tnnwqbv86hk50vuy1
-oauthexpires=1751344570103
+oauth=oauth\:jg9egsaqmqde2dogbw6y2jmvahepfq
+oauthexpires=1751359255523
 owner=yevheniikoral
 panelpassword=Pavopa876840
 paneluser=Koral

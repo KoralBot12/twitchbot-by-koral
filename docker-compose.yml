@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  twitchbot:
+    build: .
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    environment:
+      - TWITCH_OAUTH=${TWITCH_OAUTH}
+      - TWITCH_USER=${TWITCH_USER}
+      - TWITCH_CHANNEL=${TWITCH_CHANNEL}
