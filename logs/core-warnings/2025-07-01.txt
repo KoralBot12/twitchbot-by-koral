@@ -1,0 +1,14 @@
+[07-01-2025 @ 00:44:02.096 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 01:22:51.418 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 01:27:47.758 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 01:30:46.971 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 01:31:35.145 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 01:34:17.314 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 01:40:24.639 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 01:42:49.744 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 02:21:36.845 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 02:24:41.437 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 02:34:23.647 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 02:41:01.638 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 02:43:32.905 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[07-01-2025 @ 04:18:38.073 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work

@@ -1,0 +1,32 @@
+#PhantomBot Configuration File
+#
+#                     +---------+
+#                     | WARNING |
+#                     +---------+
+#       DO NOT MODIFY WHILE THE BOT IS RUNNING!
+# CHANGES MADE WHILE THE BOT IS RUNNING WILL BE LOST!
+#
+#Tue Jul 01 04:35:08 CEST 2025
+apiexpires=1751348708054
+apioauth=oauth\:2zb70ol5gncnnb9fkbemn0zg5vpl33
+apirefresh=njylofouziuq0umpy0wk5e15i7b2nvicr6p2mgp59k8c0h8lg0
+baseport=25000
+channel=yevheniikoral
+clientid=czyssibpxq04gk8921enhjrqjpc2ho
+clientsecret=e8fi7awhbxvx37nkwgwjlb6mcl41x6
+musicenable=true
+newsetup=false
+oauth=oauth\:jwagtje6qs4z0tnnwqbv86hk50vuy1
+oauthexpires=1751344570103
+owner=yevheniikoral
+panelpassword=Pavopa876840
+paneluser=Koral
+refresh=dsscb8zu7w3sl7d0okr1q2jqhvlhykz4rtgou8q4dqodotfqs2
+rollbarid=8ceb4e61-8035-4d37-9512-92116b685460
+usehttps=true
+userollbar=true
+webauth=zuAabD1XxQTWpJkM1worDqLBjjFgsX
+webauthro=RmA35WciSPMSwVYLdWFghEB4O7Xeay
+webenable=true
+ytauth=dqDSrVv4lY1kZTy6hS8N72LfBlc2tF
+ytauthro=4uGU79sHaea1JZHRLBKqF8EcEMuDQp

@@ -1,0 +1,4 @@
+username=koralbot
+oauth=oauth:zjugdawerppvj3ppt8qrlx7hp53ng6
+channel=yevheniikoral
+webserver=true

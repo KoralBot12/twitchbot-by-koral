@@ -1,0 +1,294 @@
+[06-30-2025 @ 00:48:34.852 GMT] [initChat()@PhantomBot.java:406] Detected new installation, starting setup process...
+[06-30-2025 @ 00:48:34.904 GMT] [initChat()@PhantomBot.java:412] Channel to join is not set
+[06-30-2025 @ 00:48:34.905 GMT] [initChat()@PhantomBot.java:414] Please go the the bots built-in setup page and set the Channel in the Admin section
+[06-30-2025 @ 00:48:34.906 GMT] [initChat()@PhantomBot.java:415] The default URL is http://localhost:25000/setup/
+[06-30-2025 @ 00:48:34.908 GMT] [initChat()@PhantomBot.java:418] The current panel username is: panel
+[06-30-2025 @ 00:48:34.909 GMT] [initChat()@PhantomBot.java:420] The current panel password is: b5KyQyN8JujA
+[06-30-2025 @ 00:48:34.913 GMT] [initChat()@PhantomBot.java:425] Will check again in 5 seconds
+[06-30-2025 @ 00:48:43.660 GMT] [initChat()@PhantomBot.java:412] Channel to join is not set
+[06-30-2025 @ 00:48:43.662 GMT] [initChat()@PhantomBot.java:414] Please go the the bots built-in setup page and set the Channel in the Admin section
+[06-30-2025 @ 00:48:43.664 GMT] [initChat()@PhantomBot.java:415] The default URL is http://localhost:25000/setup/
+[06-30-2025 @ 00:48:43.665 GMT] [initChat()@PhantomBot.java:418] The current panel username is: panel
+[06-30-2025 @ 00:48:43.667 GMT] [initChat()@PhantomBot.java:420] The current panel password is: b5KyQyN8JujA
+[06-30-2025 @ 00:48:43.669 GMT] [initChat()@PhantomBot.java:425] Will check again in 10 seconds
+[06-30-2025 @ 00:48:53.672 GMT] [initChat()@PhantomBot.java:412] Channel to join is not set
+[06-30-2025 @ 00:48:53.673 GMT] [initChat()@PhantomBot.java:414] Please go the the bots built-in setup page and set the Channel in the Admin section
+[06-30-2025 @ 00:48:53.673 GMT] [initChat()@PhantomBot.java:415] The default URL is http://localhost:25000/setup/
+[06-30-2025 @ 00:48:53.674 GMT] [initChat()@PhantomBot.java:418] The current panel username is: panel
+[06-30-2025 @ 00:48:53.675 GMT] [initChat()@PhantomBot.java:420] The current panel password is: b5KyQyN8JujA
+[06-30-2025 @ 00:48:53.675 GMT] [initChat()@PhantomBot.java:425] Will check again in 20 seconds
+[06-30-2025 @ 00:49:13.678 GMT] [initChat()@PhantomBot.java:412] Channel to join is not set
+[06-30-2025 @ 00:49:13.681 GMT] [initChat()@PhantomBot.java:414] Please go the the bots built-in setup page and set the Channel in the Admin section
+[06-30-2025 @ 00:49:13.683 GMT] [initChat()@PhantomBot.java:415] The default URL is http://localhost:25000/setup/
+[06-30-2025 @ 00:49:13.686 GMT] [initChat()@PhantomBot.java:418] The current panel username is: panel
+[06-30-2025 @ 00:49:13.687 GMT] [initChat()@PhantomBot.java:420] The current panel password is: b5KyQyN8JujA
+[06-30-2025 @ 00:49:13.688 GMT] [initChat()@PhantomBot.java:425] Will check again in 40 seconds
+[06-30-2025 @ 00:49:53.694 GMT] [initChat()@PhantomBot.java:433] The Bot (Chat) OAuth is not set or is invalid
+[06-30-2025 @ 00:49:53.697 GMT] [initChat()@PhantomBot.java:435] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[06-30-2025 @ 00:49:53.698 GMT] [initChat()@PhantomBot.java:436] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:49:53.699 GMT] [initChat()@PhantomBot.java:439] The current panel username is: Koral
+[06-30-2025 @ 00:49:53.699 GMT] [initChat()@PhantomBot.java:441] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:49:53.700 GMT] [initChat()@PhantomBot.java:446] Will check again in 60 seconds
+[06-30-2025 @ 00:50:53.702 GMT] [initChat()@PhantomBot.java:433] The Bot (Chat) OAuth is not set or is invalid
+[06-30-2025 @ 00:50:53.703 GMT] [initChat()@PhantomBot.java:435] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[06-30-2025 @ 00:50:53.703 GMT] [initChat()@PhantomBot.java:436] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:50:53.704 GMT] [initChat()@PhantomBot.java:439] The current panel username is: Koral
+[06-30-2025 @ 00:50:53.704 GMT] [initChat()@PhantomBot.java:441] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:50:53.705 GMT] [initChat()@PhantomBot.java:446] Will check again in 60 seconds
+[06-30-2025 @ 00:51:53.708 GMT] [initChat()@PhantomBot.java:433] The Bot (Chat) OAuth is not set or is invalid
+[06-30-2025 @ 00:51:53.708 GMT] [initChat()@PhantomBot.java:435] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[06-30-2025 @ 00:51:53.709 GMT] [initChat()@PhantomBot.java:436] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:51:53.709 GMT] [initChat()@PhantomBot.java:439] The current panel username is: Koral
+[06-30-2025 @ 00:51:53.709 GMT] [initChat()@PhantomBot.java:441] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:51:53.710 GMT] [initChat()@PhantomBot.java:446] Will check again in 60 seconds
+[06-30-2025 @ 00:53:11.774 GMT] [initChat()@PhantomBot.java:433] The Bot (Chat) OAuth is not set or is invalid
+[06-30-2025 @ 00:53:11.775 GMT] [initChat()@PhantomBot.java:435] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[06-30-2025 @ 00:53:11.776 GMT] [initChat()@PhantomBot.java:436] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:53:11.777 GMT] [initChat()@PhantomBot.java:439] The current panel username is: Koral
+[06-30-2025 @ 00:53:11.777 GMT] [initChat()@PhantomBot.java:441] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:53:11.779 GMT] [initChat()@PhantomBot.java:446] Will check again in 5 seconds
+[06-30-2025 @ 00:53:17.009 GMT] [initChat()@PhantomBot.java:433] The Bot (Chat) OAuth is not set or is invalid
+[06-30-2025 @ 00:53:17.012 GMT] [initChat()@PhantomBot.java:435] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[06-30-2025 @ 00:53:17.013 GMT] [initChat()@PhantomBot.java:436] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:53:17.014 GMT] [initChat()@PhantomBot.java:439] The current panel username is: Koral
+[06-30-2025 @ 00:53:17.014 GMT] [initChat()@PhantomBot.java:441] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:53:17.016 GMT] [initChat()@PhantomBot.java:446] Will check again in 10 seconds
+[06-30-2025 @ 00:53:27.019 GMT] [initChat()@PhantomBot.java:433] The Bot (Chat) OAuth is not set or is invalid
+[06-30-2025 @ 00:53:27.021 GMT] [initChat()@PhantomBot.java:435] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[06-30-2025 @ 00:53:27.023 GMT] [initChat()@PhantomBot.java:436] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:53:27.024 GMT] [initChat()@PhantomBot.java:439] The current panel username is: Koral
+[06-30-2025 @ 00:53:27.024 GMT] [initChat()@PhantomBot.java:441] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:53:27.026 GMT] [initChat()@PhantomBot.java:446] Will check again in 20 seconds
+[06-30-2025 @ 00:53:47.028 GMT] [initChat()@PhantomBot.java:433] The Bot (Chat) OAuth is not set or is invalid
+[06-30-2025 @ 00:53:47.032 GMT] [initChat()@PhantomBot.java:435] Please go the the bots built-in oauth page and setup a new Bot (Chat) token
+[06-30-2025 @ 00:53:47.034 GMT] [initChat()@PhantomBot.java:436] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:53:47.035 GMT] [initChat()@PhantomBot.java:439] The current panel username is: Koral
+[06-30-2025 @ 00:53:47.035 GMT] [initChat()@PhantomBot.java:441] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:53:47.038 GMT] [initChat()@PhantomBot.java:446] Will check again in 40 seconds
+[06-30-2025 @ 00:54:27.039 GMT] [initChat()@PhantomBot.java:454] The Broadcaster (API) OAuth is not set or is invalid
+[06-30-2025 @ 00:54:27.040 GMT] [initChat()@PhantomBot.java:456] Please go the the bots built-in oauth page and setup a new Broadcaster (API) token
+[06-30-2025 @ 00:54:27.041 GMT] [initChat()@PhantomBot.java:457] The default URL is http://localhost:25000/oauth/
+[06-30-2025 @ 00:54:27.043 GMT] [initChat()@PhantomBot.java:460] The current panel username is: Koral
+[06-30-2025 @ 00:54:27.045 GMT] [initChat()@PhantomBot.java:462] The current panel password is: Pavopa876840
+[06-30-2025 @ 00:54:27.047 GMT] [initChat()@PhantomBot.java:467] Will check again in 60 seconds
+[06-30-2025 @ 01:01:57.870 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:03:10.003 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:10:37.770 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:13:20.132 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:19:19.133 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:21:54.791 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:25:05.745 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:27:31.603 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:30:06.866 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:32:25.551 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:35:27.275 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:37:33.107 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:39:08.450 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:41:50.790 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:43:27.874 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:45:15.146 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:47:43.729 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:48:29.714 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:49:09.620 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:50:18.801 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:51:10.805 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 01:53:30.417 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:00:49.880 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:02:39.024 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:03:45.738 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:05:57.949 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:07:46.230 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:09:51.246 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:13:13.651 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:16:38.479 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:21:05.588 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:36:17.476 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:42:00.613 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:46:33.822 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:53:08.630 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 02:55:20.823 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:02:08.017 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:05:29.501 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:19:34.395 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:22:41.493 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:25:56.805 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:27:28.770 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:29:38.122 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:30:08.949 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/eventsub/subscriptions] 400 Bad Request: websocket transport session does not exist or has already disconnected
+[06-30-2025 @ 03:37:45.297 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:41:23.669 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:42:59.723 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:45:13.469 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:46:47.540 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:48:28.124 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:49:55.108 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:52:45.930 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:54:24.562 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:55:34.586 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:56:52.341 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 03:58:52.099 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:00:02.906 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:01:22.673 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:02:34.085 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:03:28.725 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:04:21.464 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:05:25.629 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:06:19.814 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:07:48.071 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:14:45.063 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:16:30.425 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:18:05.082 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:19:11.793 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:21:11.319 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:22:44.169 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:23:28.722 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:24:13.026 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:24:55.011 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:25:57.199 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:27:19.402 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 04:28:12.911 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 13:04:56.356 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 13:09:33.928 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 13:14:24.052 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:14:26.859 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:20:20.975 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:20:23.408 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:25:23.887 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:31:19.013 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:31:21.399 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:33:34.909 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:33:37.321 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:34:42.776 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:34:45.150 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:39:45.163 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:41:45.184 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:41:47.534 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:46:10.918 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:46:13.332 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:47:23.614 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:47:25.956 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:52:32.348 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:52:34.711 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:53:33.397 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:53:35.741 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:55:08.999 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:55:11.374 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 13:56:16.830 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 13:56:19.271 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:01:19.273 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:06:19.278 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:11:19.799 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:16:19.806 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:21:19.823 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:26:19.854 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:32:19.287 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:37:19.311 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:42:19.580 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:47:19.791 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:53:19.280 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 14:58:19.363 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:03:19.782 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:08:19.802 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:13:19.826 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:18:19.840 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:24:19.584 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:29:19.828 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:34:19.836 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:40:19.279 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:45:19.286 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:50:19.792 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 15:55:19.805 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:00:19.812 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:05:19.828 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:11:19.302 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:16:19.806 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:22:19.293 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:27:19.784 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:32:19.800 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:38:19.297 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:43:19.794 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:48:39.018 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:54:19.303 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 16:59:19.312 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:04:19.827 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:10:19.310 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:15:19.795 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:21:19.283 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:26:19.296 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:31:19.793 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:37:19.573 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:42:19.871 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:47:20.948 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:56:04.549 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 17:56:07.206 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 17:56:16.361 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 17:56:18.720 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 18:01:18.731 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 18:06:19.252 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 18:09:00.459 GMT] [onMessage()@UserStateTMIProcessor.java:71] koralbot is not detected as a moderator!
+[06-30-2025 @ 18:09:00.462 GMT] [onMessage()@UserStateTMIProcessor.java:72] A lower rate limit is being used to prevent global muting.
+[06-30-2025 @ 18:09:00.463 GMT] [onMessage()@UserStateTMIProcessor.java:73] To fix this, the broadcaster must add koralbot as a moderator in Stream Manager
+[06-30-2025 @ 18:09:00.463 GMT] [onMessage()@UserStateTMIProcessor.java:74] or type the following command in Twitch Chat: /mod koralbot
+[06-30-2025 @ 18:11:19.309 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 18:20:33.937 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as diamonscorp. Some features may not work
+[06-30-2025 @ 18:20:36.328 GMT] [handleRequest()@Helix.java:317] Helix rejected a request [/subscriptions?broadcaster_id=513392314&first=1] 401 Unauthorized: The ID in broadcaster_id must match the user ID found in the request's OAuth token.
+[06-30-2025 @ 18:21:36.071 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:23:23.661 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:24:48.689 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:36:11.324 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:37:18.108 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:38:43.344 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:40:39.512 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:41:55.355 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:43:05.597 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:43:50.710 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:45:19.455 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:48:00.094 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:51:51.639 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 18:59:05.854 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:01:00.562 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:02:52.593 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:04:14.933 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:07:32.900 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:09:21.313 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:11:26.920 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:17:34.750 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 19:21:42.389 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:29:50.136 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:37:09.840 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:41:02.792 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:47:47.891 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:52:16.480 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:55:33.867 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:57:19.790 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 20:59:04.015 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:07:09.041 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:10:24.155 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:15:09.049 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:21:44.559 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:23:06.281 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:24:53.746 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:38:02.047 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:42:46.437 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:45:35.604 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 21:49:34.524 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:00:39.150 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:02:55.787 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:05:40.280 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:06:42.909 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:09:17.319 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:11:03.284 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:14:33.049 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:18:01.587 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:26:18.765 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:33:06.457 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:35:10.073 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:36:48.488 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:39:24.734 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:40:29.711 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:40:58.268 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:42:10.544 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:43:31.373 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:44:55.680 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 22:47:44.517 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
+[06-30-2025 @ 23:10:25.042 GMT] [checkOAuthInconsistencies()@TwitchValidate.java:274] API (apioauth) is not logged in as yevheniikoral. Some features may not work
