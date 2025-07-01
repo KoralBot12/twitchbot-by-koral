@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 3000
 
 # Определяем команду запуска
-CMD ["node", "launch.bat"]
+CMD ["node", "launch.js"]
